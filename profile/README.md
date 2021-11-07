@@ -10,3 +10,11 @@ Swing, Spring Boot, mariaDB
 3. 정보공유 커뮤니티
 4. 그룹 기능
 5. 시간관리 상담, 솔루션 제공
+### 협업규칙
+https://github.com/1M1S/1M1S-client/issues/2
+### 정보구조도(IA)
+https://docs.google.com/spreadsheets/d/1hQdqAP8WipZ1SKwD1a_jwMnUTBpTJSgBCx3UJ6cywGo/edit#gid=0
+### API 사용 안내
+https://github.com/1M1S/1M1S-client/issues/3
+### API 문서
+https://1m1s.github.io/
