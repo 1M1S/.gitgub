@@ -3,7 +3,7 @@
 # 1분1초
 시간관리어플
 ### 개발도구
-JavaFX, node.js, mongoDB
+Swing, Spring Boot, mariaDB
 ### 주요기능
 1. 시간관리
 2. 유저들의 시간사용 통계량 제공(+랭킹제도)
