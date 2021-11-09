@@ -18,3 +18,5 @@ https://docs.google.com/spreadsheets/d/1hQdqAP8WipZ1SKwD1a_jwMnUTBpTJSgBCx3UJ6cy
 https://github.com/1M1S/1M1S-client/issues/3
 ### API 문서
 https://1m1s.github.io/
+### DB 설계
+https://docs.google.com/spreadsheets/d/1Uga-Tb9KF_MPLcB1_6BPCuiY6ssJBIthgssPOSd58qc/edit#gid=0
