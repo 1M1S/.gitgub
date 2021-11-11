@@ -15,7 +15,7 @@ https://github.com/1M1S/1M1S-client/issues/2
 ### 정보구조도(IA)
 https://docs.google.com/spreadsheets/d/1hQdqAP8WipZ1SKwD1a_jwMnUTBpTJSgBCx3UJ6cywGo/edit#gid=0
 ### API 사용 안내
-https://github.com/1M1S/1M1S-client/issues/3
+https://github.com/1M1S/1M1S-client/issues/8
 ### API 문서
 https://1m1s.github.io/
 ### DB 설계
