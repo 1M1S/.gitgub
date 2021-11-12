@@ -20,5 +20,6 @@ https://github.com/1M1S/1M1S-client/issues/8
 https://1m1s.github.io/
 ### DB 설계
 https://docs.google.com/spreadsheets/d/1Uga-Tb9KF_MPLcB1_6BPCuiY6ssJBIthgssPOSd58qc/edit#gid=0
+https://lucid.app/lucidchart/24a85a04-0280-4d6a-9bbc-4424281337b6/edit?invitationId=inv_d89ee7d2-1fe4-4c57-a85d-21ae55769f4b
 ### API 설계
 https://docs.google.com/spreadsheets/d/1Up-8eum0XyDhAi9AXCWnBLaWPKiL2F7G0mQNXJz4kY8/edit?usp=sharing
